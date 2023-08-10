@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+![](https://github.com/ThomasGl/ThomasGl/blob/main/brain.gif)
+
 
 <!--
 **ThomasGl/ThomasGl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+        
