@@ -1,5 +1,5 @@
 # Hi, I'm Thomas Glezer
-<img align="right" height="340em" width="100rem" src="https://github.com/ThomasGl/ThomasGl/blob/main/brain.gif"/>
+<img align="right" height="360em" width="100rem" src="https://github.com/ThomasGl/ThomasGl/blob/main/brain.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasgl&color=yellow" alt="Profile views" /> </p>
 
@@ -15,7 +15,9 @@
 
 - 👽 [LinkedIn](https://www.linkedin.com/in/thomas-glezer-209662182/)
 
-- 🗣️ Languages: 🇵🇹 (mainly 🇧🇷) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇱 🇦🇷 
+- 🗣️ Languages: 🇵🇹 (mainly 🇧🇷) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇱 🇦🇷
+
+- 💠 Interests: DSP | VLSI | RFIC | ASIC | Bio-Electronics | Power Electronics | Waves & Transmission Lines
 
 ## Programming languages
 <table>
@@ -65,8 +67,21 @@
   </tr>
 </table>
 
+## Documentation technologies
+
+<table>
+  <tr>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /></td>
+  </tr>
+</table>
 
 ## Electrical Engineering Programs
 
-
-                    
+- OrCAD PSpice
+- CST Studio
+- Simulink
+- Visual Studio (+ Code)
+- Vivado
+- Virtuoso
