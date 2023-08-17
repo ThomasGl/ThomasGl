@@ -1,9 +1,9 @@
-<img align="right" height="380em" width="100rem" src="https://github.com/ThomasGl/ThomasGl/blob/main/brain.gif"/>
+# Hi, I'm Thomas Glezer
+<img align="right" height="340em" width="100rem" src="https://github.com/ThomasGl/ThomasGl/blob/main/brain.gif"/>
 
-<h1 align="left">Hi, I'm Thomas Glezer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasgl&color=yellow" alt="Profile views" /> </p>
 
-- :electron: A Electrical & Eletronics Engineer | [TAU](https://en-engineering.tau.ac.il/)
+- :electron: An Electrical & Eletronics Engineer | [TAU](https://en-engineering.tau.ac.il/)
 
 - 🖥️ I’m currently working at [Waredepo](https://www.waredepo.com/)
 
@@ -15,14 +15,58 @@
 
 - 👽 [LinkedIn](https://www.linkedin.com/in/thomas-glezer-209662182/)
 
-<h1>Programming languages</h1>
+- 🗣️ Languages: 🇵🇹 (mainly 🇧🇷) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇱 🇦🇷 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />        
+## Programming languages
+<table>
+  <tr>
+    <td><img width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" /></td>
+    <td><img width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></td>
+    <td><img width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /></td>
+    <td><img width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></td>
+    <td><img width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></td>
+    <td><img width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />        </td>    
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+  </tr>
+</table>
 
-<h1>CI/CD Technologies</h1>
-<img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />        
+## CI/CD Technologies
+
+<table>
+  <tr>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></td>    
+  </tr>
+</table>
+
+## Databases
+
+<table>
+  <tr>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" /></td>    
+  </tr>
+</table>
+
+## Front-end Frameworks
+
+<table>
+  <tr>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" /></td>
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></td>  
+    <td><img align="left" width="30px" style="padding-right:10px; width: 8rem; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" /></td>  
+  </tr>
+</table>
+
+
+## Electrical Engineering Programs
+
+
+                    
