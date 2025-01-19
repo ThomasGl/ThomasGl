@@ -5,7 +5,7 @@
 
 - :electron: An Electrical & Eletronics Engineer | [TAU](https://en-engineering.tau.ac.il/)
 
-- 🖥️ I’m currently working at [Waredepo](https://www.waredepo.com/)
+- 🖥️ I’m currently working at [BTG](https://www.btgpactual.com/)
 
 - 💬 Ask me about **Anything, I am curious**
 
